@@ -1,0 +1,5 @@
+# translation compile
+*.qm
+
+# qtcreator stuff
+*.pro.user
